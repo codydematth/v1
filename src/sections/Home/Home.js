@@ -44,7 +44,9 @@ const Home = () => {
           {t('home_i')}
         </Typography>
         <br />
-        <img src='Vanilla-1.7s-260px.svg' alt='name' />
+        <div className='textName'>
+          <h1 className='text'>OLUWAFEMI MATHIAS A.</h1>
+        </div>
         <Typography
           component={motion.p}
           animate={controls}
