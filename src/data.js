@@ -1,6 +1,7 @@
 const skillsList = [
   {title: 'Python', value: 80},
   {title: 'React JS', value: 75},
+  {title: 'React Native', value: 75},
   {title: 'Django', value: 80},
   {title: 'Typescript', value: 60},
   {title: 'Tailwind CSS', value: 70},
