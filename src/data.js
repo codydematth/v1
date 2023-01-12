@@ -57,13 +57,13 @@ const projectList = [
   },
   {
     id: 5,
-    title: 'Cody Blog Post',
+    title: 'Student Blog Post',
     technologies: ['Python, Django', 'Bootstrap', 'Postgresql, Javascript'],
     backgroundImage:
       'https://img.freepik.com/free-vector/dark-gradient-background-with-copy-space_53876-99548.jpg?size=626&ext=jpg&ga=GA1.2.2102900112.1628985600',
     frontImage:
       'https://codydematth.pythonanywhere.com/media/img/Screenshot_from_2022-10-11_05-52-21.png',
-    liveLink: 'https://cody-blog-post.herokuapp.com/',
+    liveLink: 'https://students-blog-post.up.railway.app/',
     githubLink:
       'https://github.com/https://github.com/codydematth/cody-blog-post',
   },
