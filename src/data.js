@@ -72,21 +72,19 @@ const projectList = [
 const experienceList = [
   {
     id: 0,
+    company: 'TAWOL TECHNOLOGIES LTD',
+    links: {
+      website: 'http://www.tawol-tech.com/',
+      linkedin: 'https://ng.linkedin.com/company/tawol',
+    },
+  },
+  {
+    id: 1,
     company: 'DELBOTT',
     links: {
       website: 'https://delivery.delbott.com/login',
       facebook: 'https://web.facebook.com/delbottnigeria/?_rdc=1&_rdr',
       instagram: 'https://www.instagram.com/delbottnigeria/',
-      twitter: 'https://twitter.com/DelbottNigeria',
-    },
-  },
-  {
-    id: 1,
-    company: 'ABC CARGO EXPRESS',
-    links: {
-      website: 'https://abccargoxpress.com/',
-      facebook: 'https://web.facebook.com/abccargoXpress',
-      instagram: 'https://www.instagram.com/abc.cargoxpress/?hl=en',
     },
   },
   {
