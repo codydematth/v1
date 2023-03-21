@@ -42,7 +42,7 @@ const projectList = [
     backgroundImage:
       'https://img.freepik.com/free-vector/dark-gradient-background-with-copy-space_53876-99548.jpg?size=626&ext=jpg&ga=GA1.2.2102900112.1628985600',
     frontImage: 'https://codydematth.pythonanywhere.com/media/img/tekol.png',
-    liveLink: 'https://tekolafrica.com',
+    liveLink: 'https://tekolafrica.onrender.com/',
     githubLink: 'https://github.com/codydematth',
   },
   {
