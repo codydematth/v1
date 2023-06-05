@@ -20,7 +20,7 @@ const Footer = () => {
       <Box className={classes.footer}>
         {isMobile && <Social mobile />}
         <Typography variant='body2' color='initial'>
-          © 2022 Codydematth | Oluwafemi Mathias Amire
+          © 2022 Codydematth | Oluwafemi Mathias A.
         </Typography>
       </Box>
     </Container>
