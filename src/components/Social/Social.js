@@ -37,7 +37,7 @@ const Social = ({mobile}) => {
         <IconBtn
           icon={LinkedIn}
           m={1}
-          href='https://www.linkedin.com/in/mehdi-ben-hadj-ali-6a7435131/'
+          href='https://www.linkedin.com/in/codydematth'
         />
         <IconBtn icon={Email} m={1} href='mailto:codydematth@gmail.com' />
       </div>
@@ -59,7 +59,7 @@ const Social = ({mobile}) => {
           <IconBtn
             icon={LinkedIn}
             m={1}
-            href='https://www.linkedin.com/in/mehdi-ben-hadj-ali-6a7435131/'
+            href='https://www.linkedin.com/in/codydematth'
           />
         </motion.div>
         <motion.div animate={controls} custom={3}>
