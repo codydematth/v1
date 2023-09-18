@@ -13,22 +13,22 @@ Table of Content:
     Approach
     Status
 
-About The App
+About The App:
 
 [React Portfolio] is an app that ...
 
 It's develope using React JS and Material UI
-Setup
+Setup:
 
     download or clone the repository
     run np start
     ...
 
-Approach
+Approach:
 
 I adopted the BEM naming style for my css class names and ...
 Status
 
-Credits
+Credits:
 My credit to Mehdi-BHA  >>>  https://github.com/Mehdi-BHA
 This Project was first Developed by him
