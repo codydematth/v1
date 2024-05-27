@@ -64,7 +64,7 @@ const ExtendedCard = ({
                 {overview}
               </Typography>
               <Typography
-                variant='h2'
+                variant='h5'
                 className={classes.technologies}
                 component={motion.h5}
                 layoutId={`technologies-${id}`}
