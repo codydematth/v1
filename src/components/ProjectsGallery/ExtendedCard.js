@@ -58,17 +58,20 @@ const ExtendedCard = ({
               </Typography>
               <Typography
                 variant='body2'
-                className={classes.overview}
+                className={classes.overview.slice(0, 100) + '...'}
                 component={motion.h5}
                 layoutId={`overview-${id}`}>
                 {overview}
               </Typography>
               <Typography
-                variant='body1'
+                variant='h2'
                 className={classes.technologies}
                 component={motion.h5}
                 layoutId={`technologies-${id}`}
-                color='primary'>
+                color='white'
+                backgroundColor='primary'
+                opacity='0.7'
+                spacing='4'>
                 {technologies.join(' · ')}
               </Typography>
 
